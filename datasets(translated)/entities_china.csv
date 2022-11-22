@@ -1,0 +1,400 @@
+en,zh_correct,zh_translate_tool1,zh_status_tool1,pinyin_trans_tool1,pinyin_meaning_tool1,g2pc_pos_tool1,g2pc_tones_tool1,g2pc_meaning_tool1,g2pm_tone_tool1
+ping,,ping,,"['p', 'i', 'n', 'g']",,nr,"['p', 'i', 'n', 'g']","[None, None, None, None]",['ping']
+hong,,洪,,['hong2'],"['flood', 'big', 'great']",nr,['hong2'],['surname Hong'],['hong2']
+xue,,XUE,,"['X', 'U', 'E']",,nr,"['X', 'U', 'E']","[None, None, None]",['XUE']
+xiu,,xiu,,"['x', 'i', 'u']",,nr,"['x', 'i', 'u']","[None, None, None]",['xiu']
+qiu,,qiu,,"['q', 'i', 'u']",,nr,"['q', 'i', 'u']","[None, None, None]",['qiu']
+xiang,,Xiang,,"['X', 'i', 'a', 'n', 'g']",,nr,"['X', 'i', 'a', 'n', 'g']","[None, None, None, None, None]",['Xiang']
+huan,,Huan,,"['H', 'u', 'a', 'n']",,nr,"['H', 'u', 'a', 'n']","[None, None, None, None]",['Huan']
+bo,,博,,['bo2'],['old variant of 博[bo2]'],nr,['bo2'],['extensive'],['bo2']
+jing,,Jing,,"['J', 'i', 'n', 'g']",,nr,"['J', 'i', 'n', 'g']","[None, None, None, None]",['Jing']
+fang,,方,,['fang1'],"['square', 'power or involution (mathematics)', 'upright', 'honest', 'fair and square', 'direction', 'side', 'party (to a contract, dispute etc)', 'place', 'method', 'prescription (medicine)', 'just when', 'only or just', 'classifier for square things', 'abbr. for square or cubic meter']",nr,['fang1'],['surname Fang'],['fang1']
+yanlin,,Yanlin,,"['Y', 'a', 'n', 'l', 'i', 'n']",,nr,"['Y', 'a', 'n', 'l', 'i', 'n']","[None, None, None, None, None, None]",['Yanlin']
+bao,,鲍,,['bao4'],['abalone'],nr,['bao4'],['surname Bao'],['bao4']
+ling,,ling,,"['l', 'i', 'n', 'g']",,nr,"['l', 'i', 'n', 'g']","[None, None, None, None]",['ling']
+heng,,亨,,['heng1'],"['prosperous', 'henry (unit of inductance)']",nr,['heng1'],['prosperous'],['heng1']
+an,,一个,,"['yi1', 'ge4']",,m,"['yi1', 'ge4']","['one', 'individual']","['yi1', 'ge4']"
+li,,李,,['li3'],['plum'],nr,['li3'],['surname Li'],['li3']
+shen,,沉,,['chen2'],"['to submerge', 'to immerse', 'to sink', 'to keep down', 'to lower', 'to drop', 'deep', 'profound', 'heavy']",v,['chen2'],['to submerge'],['chen2']
+rong,,rong,,"['r', 'o', 'n', 'g']",,nr,"['r', 'o', 'n', 'g']","[None, None, None, None]",['rong']
+xiaodan,,小丹,,"['xiao3', 'dan1']",,nr,"['xiao3', 'dan1']","['small', 'red']","['xiao3', 'dan1']"
+xiaojian,,小木,,"['xiao3', 'mu4']",,nr,"['xiao3', 'mu4']","['small', 'surname Mu']","['xiao3', 'mu4']"
+tao,,陶,,['tao2'],"['pottery', 'pleased']",nr,['tao2'],['surname Tao'],['tao2']
+xiaosheng,,小山,,"['xiao3', 'shan1']",,nr,"['xiao3', 'shan1']","['small', 'surname Shan']","['xiao3', 'shan1']"
+xiaowen,,小牛,,"['xiao3', 'niu2']",['calf'],nr,['xiao3 niu2'],['calf'],"['xiao3', 'niu2']"
+sying,,Sying,,"['S', 'y', 'i', 'n', 'g']",,nr,"['S', 'y', 'i', 'n', 'g']","[None, None, None, None, None]",['Sying']
+hu,,胡,,['hu2'],"['beard', 'mustache', 'whiskers']",nr,['hu2'],['surname Hu'],['hu2']
+liang,,梁,,['liang2'],['variant of 梁[liang2]'],nr,['liang2'],['Liang Dynasty (502-557)'],['liang2']
+zhen,,Zhen,,"['Z', 'h', 'e', 'n']",,nr,"['Z', 'h', 'e', 'n']","[None, None, None, None]",['Zhen']
+liu,,刘,,['liu2'],['surname Liu'],nr,['liu2'],['surname Liu'],['liu2']
+jun,,六月,,"['liu4', 'yue4']","['June', 'sixth month (of the lunar year)']",t,['liu4 yue4'],['June'],"['liu4', 'yue4']"
+lin,,林,,['lin2'],"['woods', 'forest', 'CL:片[pian4]', 'circle(s) (i.e. specific group of people)', 'a collection (of similar things)']",nr,['lin2'],['surname Lin'],['lin2']
+mei,,梅,,['mei2'],['old variant of 梅[mei2]'],nr,['mei2'],['surname Mei'],['mei2']
+yusheng,,Yusheng,,"['Y', 'u', 's', 'h', 'e', 'n', 'g']",,nr,"['Y', 'u', 's', 'h', 'e', 'n', 'g']","[None, None, None, None, None, None, None]",['Yusheng']
+renshu,,伦森,,"['lun2', 'sen1']",,nr,"['lun2', 'sen1']","['human relationship', 'Mori (Japanese surname)']","['lun2', 'sen1']"
+luli,,卢利,,"['lu2', 'li4']",,nr,"['lu2', 'li4']","['surname Lu', 'surname Li']","['lu2', 'li4']"
+renxiang,,Renxiang,,"['R', 'e', 'n', 'x', 'i', 'a', 'n', 'g']",,nr,"['R', 'e', 'n', 'x', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Renxiang']
+longwei,,Longwei,,"['L', 'o', 'n', 'g', 'w', 'e', 'i']",,nr,"['L', 'o', 'n', 'g', 'w', 'e', 'i']","[None, None, None, None, None, None, None]",['Longwei']
+quon,,quon,,"['q', 'u', 'o', 'n']",,nr,"['q', 'u', 'o', 'n']","[None, None, None, None]",['quon']
+lok,,洛,,['luo4'],"['surname Luo', 'old name of several rivers (in Henan, Shaanxi, Sichuan and Anhui)']",nr,['luo4'],['surname Luo'],['luo4']
+rou,,鲁,,['lu3'],"['crass', 'stupid', 'rude']",nr,['lu3'],['surname Lu'],['lu3']
+mani,,玛尼,,"['ma3', 'ni2']",['Mani (god)'],nr,['ma3 ni2'],['Mani (god)'],"['ma3', 'ni2']"
+liwei,,利威,,"['li4', 'wei1']",,nz,"['li4', 'wei1']","['surname Li', 'power']","['li4', 'wei1']"
+ruolan,,鲁兰,,"['lu3', 'lan2']",,nr,"['lu3', 'lan2']","['surname Lu', 'surname Lan']","['lu3', 'lan2']"
+meiying,,meiying,,"['m', 'e', 'i', 'y', 'i', 'n', 'g']",,nr,"['m', 'e', 'i', 'y', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['meiying']
+ruomei,,Ruomei,,"['R', 'u', 'o', 'm', 'e', 'i']",,nr,"['R', 'u', 'o', 'm', 'e', 'i']","[None, None, None, None, None, None]",['Ruomei']
+shaiming,,Shaiming,,"['S', 'h', 'a', 'i', 'm', 'i', 'n', 'g']",,nr,"['S', 'h', 'a', 'i', 'm', 'i', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Shaiming']
+shan,,山,,['shan1'],"['mountain', 'hill', 'anything that resembles a mountain', 'CL:座[zuo4]', 'bundled straw in which silkworms spin cocoons', 'gable']",n,['shan1'],['surname Shan'],['shan1']
+liqiu,,liqiu,,"['l', 'i', 'q', 'i', 'u']",,nr,"['l', 'i', 'q', 'i', 'u']","[None, None, None, None, None]",['liqiu']
+shanyuan,,Shanyuan,,"['S', 'h', 'a', 'n', 'y', 'u', 'a', 'n']",,nr,"['S', 'h', 'a', 'n', 'y', 'u', 'a', 'n']","[None, None, None, None, None, None, None, None]",['Shanyuan']
+linh,,林,,['lin2'],"['woods', 'forest', 'CL:片[pian4]', 'circle(s) (i.e. specific group of people)', 'a collection (of similar things)']",nr,['lin2'],['surname Lin'],['lin2']
+shi,,史,,['shi3'],"['history', 'annals', 'title of an official historian in ancient China']",nr,['shi3'],['surname Shi'],['shi3']
+shing,,棚,,['peng2'],"['shed', 'canopy', 'shack']",n,['peng2'],['shed'],['peng2']
+shirong,,希恩,,"['xi1', 'en1']",,nr,"['xi1', 'en1']","['to hope', 'favor']","['xi1', 'en1']"
+shoi-ming,,shoi-ming,,"['s', 'h', 'o', 'i', '-', 'm', 'i', 'n', 'g']",,nr,"['s', 'h', 'o', 'i', '-', 'm', 'i', 'n', 'g']","[None, None, None, None, None, None, None, None, None]",['shoi-ming']
+liling,,衬里,,"['chen4', 'li3']",['lining'],nr,['chen4 li3'],['lining'],"['chen4', 'li3']"
+shu,,舒,,['shu1'],"['to stretch', 'to unfold', 'to relax', 'leisurely']",nr,['shu1'],['surname Shu'],['shu1']
+lijuan,,lijuan,,"['l', 'i', 'j', 'u', 'a', 'n']",,nr,"['l', 'i', 'j', 'u', 'a', 'n']","[None, None, None, None, None, None]",['lijuan']
+shuang,,Shuang,,"['S', 'h', 'u', 'a', 'n', 'g']",,nr,"['S', 'h', 'u', 'a', 'n', 'g']","[None, None, None, None, None, None]",['Shuang']
+quan,,Quan,,"['Q', 'u', 'a', 'n']",,nr,"['q', 'u', 'a', 'n']","['cute (loanword)', None, None, None]",['quan']
+qiqiang,,Qiqiang,,"['Q', 'i', 'q', 'i', 'a', 'n', 'g']",,nr,"['q', 'i', 'q', 'i', 'a', 'n', 'g']","['cute (loanword)', None, None, None, None, None, None]",['qiqiang']
+ah kum,,啊，库姆,,"['a5', '，', 'ku4', 'mu3']",,nr,"['a4', '，', 'ku4 mu3']","['interjection or grunt of agreement', None, 'Qom (holy city in Iran)']","['a4', '，', 'ku4', 'mu3']"
+park,,公园,,"['gong1', 'yuan2']","['park (for public recreation)', 'CL:個|个[ge4],座[zuo4]']",n,['gong1 yuan2'],['park (for public recreation)'],"['gong1', 'yuan2']"
+mingli,,mingli,,"['m', 'i', 'n', 'g', 'l', 'i']",,nr,"['m', 'i', 'n', 'g', 'l', 'i']","[None, None, None, None, None, None]",['mingli']
+mingmei,,mingmei,,"['m', 'i', 'n', 'g', 'm', 'e', 'i']",,nr,"['m', 'i', 'n', 'g', 'm', 'e', 'i']","[None, None, None, None, None, None, None]",['mingmei']
+mingxia,,mingxia,,"['m', 'i', 'n', 'g', 'x', 'i', 'a']",,nr,"['m', 'i', 'n', 'g', 'x', 'i', 'a']","[None, None, None, None, None, None, None]",['mingxia']
+meixiu,,Meixiu,,"['M', 'e', 'i', 'x', 'i', 'u']",,nr,"['M', 'e', 'i', 'x', 'i', 'u']","[None, None, None, None, None, None]",['Meixiu']
+mingyu,,mingyu,,"['m', 'i', 'n', 'g', 'y', 'u']",,nr,"['m', 'i', 'n', 'g', 'y', 'u']","[None, None, None, None, None, None]",['mingyu']
+minsheng,,明山,,"['ming2', 'shan1']","['Mingshan district of Benxi city 本溪市, Liaoning']",ns,['ming2 shan1'],[''],"['ming2', 'shan1']"
+minzhe,,明尼,,"['ming2', 'ni2']",,nr,"['ming2', 'ni2']","['Ming Dynasty (1368-1644)', 'Buddhist nun']","['ming2', 'ni2']"
+ning,,宁,,['ning2'],['variant of 寧|宁[ning2]'],nr,['ning2'],['surname Ning'],['ning2']
+ninghong,,宁黄,,"['ning2', 'huang2']",,nr,"['ning2', 'huang2']","['surname Ning', 'surname Huang or Hwang']","['ning2', 'huang2']"
+nuo,,诺,,['nuo4'],"['to consent', 'to promise', '(literary) yes!']",nr,['nuo4'],['to consent'],['nuo4']
+nuwa,,Nuwa,,"['N', 'u', 'w', 'a']",,nr,"['N', 'u', 'w', 'a']","[None, None, None, None]",['Nuwa']
+on,,上,,['shang4'],"['on top', 'upon', 'above', 'upper', 'previous', 'first (of multiple parts)', 'to climb', 'to get onto', 'to go up', 'to attend (class or university)']",v,['shang4'],['on top'],['shang4']
+peizhi,,Peizhi,,"['P', 'e', 'i', 'z', 'h', 'i']",,nr,"['p', 'e', 'i', 'z', 'h', 'i']","['(slang) femme (lesbian stereotype)', None, None, None, None, None]",['peizhi']
+meifeng,,meifeng,,"['m', 'e', 'i', 'f', 'e', 'n', 'g']",,nr,"['m', 'e', 'i', 'f', 'e', 'n', 'g']","[None, None, None, None, None, None, None]",['meifeng']
+meirong,,天隆,,"['tian1', 'long2']",,nz,"['tian1', 'long2']","['day', 'surname Long']","['tian1', 'long2']"
+peng,,彭,,['peng2'],['surname Peng'],nr,['peng2'],['surname Peng'],['peng2']
+shunyuan,,Shunyuan,,"['S', 'h', 'u', 'n', 'y', 'u', 'a', 'n']",,nr,"['S', 'h', 'u', 'n', 'y', 'u', 'a', 'n']","[None, None, None, None, None, None, None, None]",['Shunyuan']
+qi,,气,,['qi4'],"['gas', 'air', 'smell', 'weather', 'to make angry', 'to annoy', 'to get angry', 'vital energy', 'qi']",n,['qi4'],['gas'],['qi4']
+qianfan,,Qianfan,,"['Q', 'i', 'a', 'n', 'f', 'a', 'n']",,nr,"['q', 'i', 'a', 'n', 'f', 'a', 'n']","['cute (loanword)', None, None, None, None, None, None]",['qianfan']
+qiang,,Qiang,,"['Q', 'i', 'a', 'n', 'g']",,nr,"['q', 'i', 'a', 'n', 'g']","['cute (loanword)', None, None, None, None]",['qiang']
+meihui,,meihui,,"['m', 'e', 'i', 'h', 'u', 'i']",,nr,"['m', 'e', 'i', 'h', 'u', 'i']","[None, None, None, None, None, None]",['meihui']
+qiao,,Qiao,,"['Q', 'i', 'a', 'o']",,nr,"['q', 'i', 'a', 'o']","['cute (loanword)', None, None, None]",['qiao']
+qiaolian,,Qiaolian,,"['Q', 'i', 'a', 'o', 'l', 'i', 'a', 'n']",,nr,"['q', 'i', 'a', 'o', 'l', 'i', 'a', 'n']","['cute (loanword)', None, None, None, None, None, None, None]",['qiaolian']
+qingling,,青,,['qing1'],"[""nature's color"", 'green or blue', 'greenish black', 'youth', 'young (of people)']",a,['qing1'],"[""nature's color""]",['qing1']
+qingshan,,清尚,,"['qing1', 'shang4']",,nr,"['qing1', 'shang4']","[""Qing or Ch'ing dynasty of imperial China (1644-1911)"", 'surname Shang']","['qing1', 'shang4']"
+qingzhao,,金佐,,"['jin1', 'zuo3']",,nr,"['jin1', 'zuo3']","['surname Jin', 'to assist']","['jin1', 'zuo3']"
+shun,,回,,['hui2'],['variant of 迴|回[hui2]'],v,['hui2'],['to circle'],['hui2']
+ah cy,,啊,,['a5'],"['modal particle ending sentence, showing affirmation, approval, or consent']",y,['a5'],"['modal particle ending sentence, showing affirmation, approval, or consent']",['a4']
+siyu,,Siyu,,"['S', 'i', 'y', 'u']",,nr,"['S', 'i', 'y', 'u']","[None, None, None, None]",['Siyu']
+song,,歌曲,,"['ge1', 'qu1']",['song'],n,['ge1 qu3'],['song'],"['ge1', 'qu3']"
+yue,,yue,,"['y', 'u', 'e']",,nr,"['y', 'u', 'e']","[None, None, None]",['yue']
+yuanjun,,Yuanjun,,"['Y', 'u', 'a', 'n', 'j', 'u', 'n']",,nr,"['Y', 'u', 'a', 'n', 'j', 'u', 'n']","[None, None, None, None, None, None, None]",['Yuanjun']
+yuan,,元,,['yuan2'],"['currency unit (esp. Chinese yuan)', 'first', 'original', 'primary', 'fundamental', 'constituent', 'part', 'era (of a reign)', '(math.) argument', 'variable', '(Tw) (geology) eon']",t,['yuan2'],['surname Yuan'],['yuan2']
+yu,,YU,,"['Y', 'U']",,nr,"['Y', 'U']","[None, None]",['YU']
+you,,你,,['ni3'],"['you (informal, as opposed to courteous 您[nin2])']",r,['ni3'],[''],['ni3']
+yongrui,,Yongrui,,"['Y', 'o', 'n', 'g', 'r', 'u', 'i']",,nr,"['Y', 'o', 'n', 'g', 'r', 'u', 'i']","[None, None, None, None, None, None, None]",['Yongrui']
+yongnian,,杨尼安,,"['yang2', 'ni2', 'an1']",,nr,"['yang2', 'ni2', 'an1']","['surname Yang', 'Buddhist nun', 'surname An']","['yang2', 'ni2', 'an1']"
+yong,,Yong,,"['Y', 'o', 'n', 'g']",,nr,"['Y', 'o', 'n', 'g']","[None, None, None, None]",['Yong']
+yingtai,,yingtai,,"['y', 'i', 'n', 'g', 't', 'a', 'i']",,nr,"['y', 'i', 'n', 'g', 't', 'a', 'i']","[None, None, None, None, None, None, None]",['yingtai']
+yingjie,,yingjie,,"['y', 'i', 'n', 'g', 'j', 'i', 'e']",,nr,"['y', 'i', 'n', 'g', 'j', 'i', 'e']","[None, None, None, None, None, None, None]",['yingjie']
+ying,,ying,,"['y', 'i', 'n', 'g']",,nr,"['y', 'i', 'n', 'g']","[None, None, None, None]",['ying']
+yi,,义,,['yi4'],"['justice', 'righteousness', 'meaning', 'foster (father etc)', 'adopted', 'artificial (tooth, limb etc)', 'relationship', 'friendship']",n,['yi4'],['surname Yi'],['yi4']
+yenay,,Yenay,,"['Y', 'e', 'n', 'a', 'y']",,nr,"['Y', 'e', 'n', 'a', 'y']","[None, None, None, None, None]",['Yenay']
+ye,,是的,,"['shi4', 'de5']","[""yes, that's right"", 'variant of 似的[shi4 de5]']",l,['shi4 de5'],"[""yes, that's right""]","['shi4', 'de5']"
+yaozu,,Yaozu,,"['Y', 'a', 'o', 'z', 'u']",,nr,"['Y', 'a', 'o', 'z', 'u']","[None, None, None, None, None]",['Yaozu']
+yuming,,YUMING,,"['Y', 'U', 'M', 'I', 'N', 'G']",,nr,"['Y', 'U', 'M', 'I', 'N', 'G']","[None, None, None, None, None, None]",['YUMING']
+yunru,,Yunru,,"['Y', 'u', 'n', 'r', 'u']",,nr,"['Y', 'u', 'n', 'r', 'u']","[None, None, None, None, None]",['Yunru']
+yunxu,,Yunxu,,"['Y', 'u', 'n', 'x', 'u']",,nr,"['Y', 'u', 'n', 'x', 'u']","[None, None, None, None, None]",['Yunxu']
+zhong,,钟,,['zhong1'],"['clock', ""o'clock"", 'time as measured in hours and minutes', 'bell', 'CL:架[jia4],座[zuo4]']",nr,['zhong1'],['surname Zhong'],['zhong1']
+zongmeng,,Zongmeng,,"['Z', 'o', 'n', 'g', 'm', 'e', 'n', 'g']",,nr,"['Z', 'o', 'n', 'g', 'm', 'e', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Zongmeng']
+zixin,,Zixin,,"['Z', 'i', 'x', 'i', 'n']",,nr,"['Z', 'i', 'x', 'i', 'n']","[None, None, None, None, None]",['Zixin']
+zihao,,Zihao,,"['Z', 'i', 'h', 'a', 'o']",,nr,"['Z', 'i', 'h', 'a', 'o']","[None, None, None, None, None]",['Zihao']
+zian,,Zian,,"['Z', 'i', 'a', 'n']",,nr,"['Z', 'i', 'a', 'n']","[None, None, None, None]",['Zian']
+zi,,Zi,,"['Z', 'i']",,nr,"['Z', 'i']","[None, None]",['Zi']
+zhu,,朱,,['zhu1'],"['cinnabar', 'see 硃砂|朱砂[zhu1 sha1]']",nr,['zhu1'],['surname Zhu'],['zhu1']
+zhiqiang,,Zhiqiang,,"['Z', 'h', 'i', 'q', 'i', 'a', 'n', 'g']",,nr,"['Z', 'h', 'i', 'q', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Zhiqiang']
+zedong,,Zedong,,"['Z', 'e', 'd', 'o', 'n', 'g']",,nr,"['Z', 'e', 'd', 'o', 'n', 'g']","[None, None, None, None, None, None]",['Zedong']
+zhilan,,Zhilan,,"['Z', 'h', 'i', 'l', 'a', 'n']",,nr,"['Z', 'h', 'i', 'l', 'a', 'n']","[None, None, None, None, None, None]",['Zhilan']
+zhensheng,,zhensheng,,"['z', 'h', 'e', 'n', 's', 'h', 'e', 'n', 'g']",,nr,"['z', 'h', 'e', 'n', 's', 'h', 'e', 'n', 'g']","[None, None, None, None, None, None, None, None, None]",['zhensheng']
+zhengsheng,,Zhengsheng,,"['Z', 'h', 'e', 'n', 'g', 's', 'h', 'e', 'n', 'g']",,nr,"['Z', 'h', 'e', 'n', 'g', 's', 'h', 'e', 'n', 'g']","[None, None, None, None, None, None, None, None, None, None]",['Zhengsheng']
+zhaohui,,Zhaohui,,"['Z', 'h', 'a', 'o', 'h', 'u', 'i']",,nr,"['Z', 'h', 'a', 'o', 'h', 'u', 'i']","[None, None, None, None, None, None, None]",['Zhaohui']
+zenguang,,Zenguang,,"['Z', 'e', 'n', 'g', 'u', 'a', 'n', 'g']",,nr,"['Z', 'e', 'n', 'g', 'u', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Zenguang']
+zengguang,,Zengguang,,"['Z', 'e', 'n', 'g', 'g', 'u', 'a', 'n', 'g']",,nr,"['Z', 'e', 'n', 'g', 'g', 'u', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None, None]",['Zengguang']
+yaochuan,,Yaochuan,,"['Y', 'a', 'o', 'c', 'h', 'u', 'a', 'n']",,nr,"['Y', 'a', 'o', 'c', 'h', 'u', 'a', 'n']","[None, None, None, None, None, None, None, None]",['Yaochuan']
+yanyu,,Yanyu,,"['Y', 'a', 'n', 'y', 'u']",,nr,"['Y', 'a', 'n', 'y', 'u']","[None, None, None, None, None]",['Yanyu']
+yang,,杨,,['yang2'],['poplar'],nr,['yang2'],['surname Yang'],['yang2']
+ushi,,Ushi,,"['U', 's', 'h', 'i']",,nr,"['U', 's', 'h', 'i']","[None, None, None, None]",['Ushi']
+wen,,温,,['wen1'],"['warm', 'lukewarm', 'temperature', 'to warm up', 'mild', 'soft', 'tender', 'to review (a lesson etc)', 'fever (TCM)', 'old variant of 瘟[wen1]']",nr,['wen1'],['surname Wen'],['wen1']
+weiyuan,,Weiyuan,,"['W', 'e', 'i', 'y', 'u', 'a', 'n']",,nr,"['W', 'e', 'i', 'y', 'u', 'a', 'n']","[None, None, None, None, None, None, None]",['Weiyuan']
+weisheng,,weisheng,,"['w', 'e', 'i', 's', 'h', 'e', 'n', 'g']",,nr,"['w', 'e', 'i', 's', 'h', 'e', 'n', 'g']","[None, None, None, None, None, None, None, None]",['weisheng']
+weimin,,魏敏,,"['wei4', 'min3']",,nr,"['wei4', 'min3']","['surname Wei', 'quick']","['wei4', 'min3']"
+weici,,Weici,,"['W', 'e', 'i', 'c', 'i']",,nr,"['W', 'e', 'i', 'c', 'i']","[None, None, None, None, None]",['Weici']
+wang,,王,,['wang2'],"['to rule', 'to reign over']",nr,['wang2'],['surname Wang'],['wang2']
+tung,,钨,,['wu4'],['tungsten (chemistry)'],nr,['wu1'],['tungsten (chemistry)'],['wu1']
+wenqian,,Wenqian,,"['W', 'e', 'n', 'q', 'i', 'a', 'n']",,nr,"['W', 'e', 'n', 'q', 'i', 'a', 'n']","[None, None, None, None, None, None, None]",['Wenqian']
+tu,,tu,,"['t', 'u']",,nr,"['t', 'u']","[None, None]",['tu']
+lihua,,lihua,,"['l', 'i', 'h', 'u', 'a']",,nr,"['l', 'i', 'h', 'u', 'a']","[None, None, None, None, None]",['lihua']
+ting,,丁,,['ding1'],"['fourth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]', 'fourth in order', 'letter ""D"" or roman ""IV"" in list ""A, B, C"", or ""I, II, III"" etc', 'ancient Chinese compass point: 195°', 'butyl', 'cubes (of food)']",nr,['ding1'],['surname Ding'],['ding1']
+tengfei,,tengfei,,"['t', 'e', 'n', 'g', 'f', 'e', 'i']",,nr,"['t', 'e', 'n', 'g', 'f', 'e', 'i']","[None, None, None, None, None, None, None]",['tengfei']
+taiwan,,台湾,,"['tai2', 'wan1']",['Taiwan'],ns,['tai2 wan1'],['Taiwan'],"['tai2', 'wan1']"
+suyin,,Suyin,,"['S', 'u', 'y', 'i', 'n']",,nr,"['S', 'u', 'y', 'i', 'n']","[None, None, None, None, None]",['Suyin']
+wencheng,,温滕,,"['wen1', 'teng2']",,nr,"['wen1', 'teng2']","['surname Wen', 'vassal state of Zhou in Shandong']","['wen1', 'teng2']"
+wing,,翅膀,,"['chi4', 'bang3']","['wing', 'CL:個|个[ge4],對|对[dui4]']",n,['chi4 bang3'],['wing'],"['chi4', 'bang3']"
+yan,,YAN,,"['Y', 'A', 'N']",,nr,"['Y', 'a', 'N']","[None, '(slang) (Tw) to steal', None]",['YaN']
+xiaozhi,,小,,['xiao3'],"['small', 'tiny', 'few', 'young']",a,['xiao3'],['small'],['xiao3']
+xueyou,,Xueyou,,"['X', 'u', 'e', 'y', 'o', 'u']",,nr,"['X', 'u', 'e', 'y', 'o', 'u']","[None, None, None, None, None, None]",['Xueyou']
+xiurong,,xiurong,,"['x', 'i', 'u', 'r', 'o', 'n', 'g']",,nr,"['x', 'i', 'u', 'r', 'o', 'n', 'g']","[None, None, None, None, None, None, None]",['xiurong']
+xiulan,,Xiulan,,"['X', 'i', 'u', 'l', 'a', 'n']",,nr,"['X', 'i', 'u', 'l', 'a', 'n']","[None, None, None, None, None, None]",['Xiulan']
+xing,,XING,,"['X', 'I', 'N', 'G']",,nr,"['X', 'I', 'N', 'G']","[None, None, None, None]",['XING']
+xin,,XIN,,"['X', 'I', 'N']",,nr,"['X', 'I', 'N']","[None, None, None]",['XIN']
+xiasheng,,Xiasheng,,"['X', 'i', 'a', 's', 'h', 'e', 'n', 'g']",,nr,"['X', 'i', 'a', 's', 'h', 'e', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Xiasheng']
+xiaotong,,小,,['xiao3'],"['small', 'tiny', 'few', 'young']",a,['xiao3'],['small'],['xiao3']
+wuzhou,,武湖,,"['wu3', 'hu2']",,ns,"['wu3', 'hu2']","['surname Wu', 'lake']","['wu3', 'hu2']"
+xiaoling,,小）,,"['xiao3', '）']",,w,"['xiao3', '）']","['small', None]","['xiao3', '）']"
+xiaolian,,小米,,"['xiao3', 'mi3']",['millet'],nr,['xiao3 mi3'],"['Xiaomi, Chinese electronics company founded in 2010']","['xiao3', 'mi3']"
+xiaojing,,小米,,"['xiao3', 'mi3']",['millet'],nr,['xiao3 mi3'],"['Xiaomi, Chinese electronics company founded in 2010']","['xiao3', 'mi3']"
+xiaohui,,小岛,,"['xiao3', 'dao3']",['isle'],nr,['xiao3 dao3'],['Kojima (Japanese surname and place name)'],"['xiao3', 'dao3']"
+xiaofan,,小米,,"['xiao3', 'mi3']",['millet'],nr,['xiao3 mi3'],"['Xiaomi, Chinese electronics company founded in 2010']","['xiao3', 'mi3']"
+xiaobo,,小罗,,"['xiao3', 'luo1']",,nr,"['xiao3', 'luo2']","['small', 'surname Luo']","['xiao3', 'luo2']"
+tingzhe,,Tingzhe,,"['T', 'i', 'n', 'g', 'z', 'h', 'e']",,nr,"['t', 'i', 'n', 'g', 'z', 'h', 'e']","['(slang) butch (lesbian stereotype)', None, None, None, None, None, None]",['tingzhe']
+zongying,,Zongying,,"['Z', 'o', 'n', 'g', 'y', 'i', 'n', 'g']",,nr,"['Z', 'o', 'n', 'g', 'y', 'i', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Zongying']
+geming,,宝石,,"['bao3', 'shi2']","['precious stone', 'gem', 'CL:枚[mei2],顆|颗[ke1]']",n,['bao3 shi2'],['precious stone'],"['bao3', 'shi2']"
+gui,,GUI,,"['G', 'U', 'I']",,nr,"['G', 'U', 'I']","[None, None, None]",['GUI']
+guoliang,,鸟根,,"['niao3', 'gen1']",,n,"['niao3', 'gen1']","['bird', 'root']","['niao3', 'gen1']"
+chonglin,,宗林,,"['zong1', 'lin2']",,nr,"['zong1', 'lin2']","['surname Zong', 'surname Lin']","['zong1', 'lin2']"
+guotin,,噪声,,"['zao4', 'sheng1']",['noise'],n,['zao4 sheng1'],['noise'],"['zao4', 'sheng1']"
+chongkun,,Chongkun,,"['C', 'h', 'o', 'n', 'g', 'k', 'u', 'n']",,nr,"['C', 'h', 'o', 'n', 'g', 'k', 'u', 'n']","[None, None, None, None, None, None, None, None]",['Chongkun']
+guowei,,Guowei,,"['G', 'u', 'o', 'w', 'e', 'i']",,nr,"['G', 'u', 'o', 'w', 'e', 'i']","[None, None, None, None, None, None]",['Guowei']
+guozhi,,古兹,,"['gu3', 'zi1']",,nr,"['gu3', 'zi1']","['surname Gu', 'now']","['gu3', 'zi1']"
+chongan,,宗甘,,"['zong1', 'gan1']",,nr,"['zong1', 'gan1']","['surname Zong', 'surname Gan']","['zong1', 'gan1']"
+hai,,海,,['hai3'],"['ocean', 'sea', 'CL:個|个[ge4],片[pian4]', 'great number of people or things', '(dialect) numerous']",n,['hai3'],['surname Hai'],['hai3']
+he,,他,,['ta1'],"['he or him', '(used for either sex when the sex is unknown or unimportant)', ""(used before sb's name for emphasis)"", '(used as a meaningless mock object)', 'other', 'another']",r,['ta1'],['he or him'],['ta1']
+china,,中国,,"['zhong1', 'guo2']",['China'],ns,['zhong1 guo2'],['China'],"['zhong1', 'guo2']"
+ho,,何,,['he2'],"['what', 'how', 'why', 'which', 'carry']",nr,['he2'],['surname He'],['he2']
+honghui,,洪华,,"['hong2', 'hua2']",,nr,"['hong2', 'hua2']","['surname Hong', 'abbr. for China']","['hong2', 'hua2']"
+hongqi,,洪基,,"['hong2', 'ji1']",,nr,"['hong2', 'ji1']","['surname Hong', 'base']","['hong2', 'ji1']"
+hop,,跳,,['tiao4'],"['to jump', 'to hop', 'to skip over', 'to bounce', 'to palpitate']",v,['tiao4'],['to jump'],['tiao4']
+howin,,霍宁,,"['huo4', 'ning2']",,nr,"['huo4', 'ning2']","['surname Huo', 'surname Ning']","['huo4', 'ning2']"
+chenguang,,成冈,,"['cheng2', 'gang1']",,nr,"['cheng2', 'gang1']","['surname Cheng', 'ridge']","['cheng2', 'gang1']"
+hua,,哇,,['wa1'],"['replaces 啊[a5] when following the vowel ""u"" or ""ao""']",nr,['wa1'],['Wow!'],['wa1']
+hualing,,hualing,,"['h', 'u', 'a', 'l', 'i', 'n', 'g']",,nr,"['h', 'u', 'a', 'l', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['hualing']
+chenglei,,成丽,,"['cheng2', 'li4']",,nr,"['cheng2', 'li4']","['surname Cheng', 'beautiful']","['cheng2', 'li2']"
+huang fu,,黄富,,"['huang2', 'fu4']",,nr,"['huang2', 'fu4']","['surname Huang or Hwang', 'surname Fu']","['huang2', 'fu4']"
+hui,,hui,,"['h', 'u', 'i']",,nr,"['h', 'u', 'i']","[None, None, None]",['hui']
+dingxiang,,Dingxiang,,"['D', 'i', 'n', 'g', 'x', 'i', 'a', 'n', 'g']",,nr,"['D', 'i', 'n', 'g', 'x', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None, None]",['Dingxiang']
+huidai,,UIDAI,,"['U', 'I', 'D', 'A', 'I']",,nr,"['U', 'I', 'D', 'a', 'I']","[None, None, None, '(slang) (Tw) to steal', None]",['UIDaI']
+huifang,,Huifang,,"['H', 'u', 'i', 'f', 'a', 'n', 'g']",,nr,"['H', 'u', 'i', 'f', 'a', 'n', 'g']","[None, None, None, None, None, None, None]",['Huifang']
+cheng,,郑,,['zheng4'],"['Zheng state during the Warring States period', 'surname Zheng', 'abbr. for 鄭州|郑州[Zheng4 zhou1]']",nr,['zheng4'],['Zheng state during the Warring States period'],['zheng4']
+huifen,,惠芬,,"['hui4', 'fen1']",,nr,"['hui4', 'fen1']","['surname Hui', 'perfume']","['hui4', 'fen1']"
+huilang,,Huilang,,"['H', 'u', 'i', 'l', 'a', 'n', 'g']",,nr,"['H', 'u', 'i', 'l', 'a', 'n', 'g']","[None, None, None, None, None, None, None]",['Huilang']
+chen,,陈,,['chen2'],"['to lay out', 'to exhibit', 'to display', 'to narrate', 'to state', 'to explain', 'to tell', 'old', 'stale']",nr,['chen2'],['surname Chen'],['chen2']
+huiliang,,Huiliang,,"['H', 'u', 'i', 'l', 'i', 'a', 'n', 'g']",,nr,"['H', 'u', 'i', 'l', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Huiliang']
+guiren,,吉伦,,"['ji2', 'lun2']",,nr,"['ji2', 'lun2']","['surname Ji', 'human relationship']","['ji2', 'lun2']"
+guangli,,广利,,"['guang3', 'li4']",,nr,"['guang3', 'li4']","['surname Guang', 'surname Li']","['guang3', 'li4']"
+chaoxiang,,chaoxiang,,"['c', 'h', 'a', 'o', 'x', 'i', 'a', 'n', 'g']",,nr,"['c', 'h', 'a', 'o', 'x', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None, None]",['chaoxiang']
+guang,,古,,['gu3'],"['ancient', 'old', 'paleo-']",a,['gu3'],['surname Gu'],['gu3']
+deming,,deming,,"['d', 'e', 'm', 'i', 'n', 'g']",,nr,"['d', 'e', 'm', 'i', 'n', 'g']","[None, None, None, None, None, None]",['deming']
+delun,,Delun,,"['D', 'e', 'l', 'u', 'n']",,nr,"['D', 'e', 'l', 'u', 'n']","[None, None, None, None, None]",['Delun']
+dong,,董,,['dong3'],"['to supervise', 'to direct', 'director']",nr,['dong3'],['surname Dong'],['dong3']
+donghai,,东海,,"['dong1', 'hai3']","['East China Sea', 'East Sea (Chinese mythology and ancient geography)']",ns,['dong1 hai3'],['East China Sea'],"['dong1', 'hai3']"
+dongmei,,东梅,,"['dong1', 'mei2']",,nr,"['dong1', 'mei2']","['surname Dong', 'surname Mei']","['dong1', 'mei2']"
+duyi,,杜伊,,"['du4', 'yi1']",,nr,"['du4', 'yi1']","['surname Du', 'surname Yi']","['du4', 'yi1']"
+daiyu,,daiyu,,"['d', 'a', 'i', 'y', 'u']",,nr,"['d', 'a', 'i', 'y', 'u']","[None, None, None, None, None]",['daiyu']
+dai,,戴,,['dai4'],"['to put on or wear (glasses, hat, gloves etc)', 'to respect', 'to bear', 'to support']",nr,['dai4'],['surname Dai'],['dai4']
+ehuang,,Ehuang,,"['E', 'h', 'u', 'a', 'n', 'g']",,nr,"['E', 'h', 'u', 'a', 'n', 'g']","[None, None, None, None, None, None]",['Ehuang']
+enlai,,恩拉莱,,"['en1', 'la1', 'lai2']",,nr,"['en1', 'la1', 'lai2']","['favor', 'to pull', 'name of weed plant (fat hen, goosefoot, pigweed etc)']","['en1', 'la1', 'lai2']"
+fa,,F A,,"['F', '', '', 'A']",,nr,"['F', 'a']","[None, '(slang) (Tw) to steal']",['F a']
+fai,,fai,,"['f', 'a', 'i']",,nr,"['f', 'a', 'i']","[None, None, None]",['fai']
+da,,da,,"['d', 'a']",,nr,"['d', 'a']","[None, None]",['da']
+cuifen,,Cuifen,,"['C', 'u', 'i', 'f', 'e', 'n']",,nr,"['C', 'u', 'i', 'f', 'e', 'n']","[None, None, None, None, None, None]",['Cuifen']
+fenfang,,芬芬,,"['fen1', 'fen1']",,nr,"['fen1', 'fen1']","['perfume', 'perfume']","['fen1', 'fen1']"
+feng,,冯,,['feng2'],"['to gallop', 'to assist', 'to attack', 'to wade', 'great', 'old variant of 憑|凭[ping2]']",nr,['feng2'],['surname Feng'],['feng2']
+chyou,,chyou,,"['c', 'h', 'y', 'o', 'u']",,nr,"['c', 'h', 'y', 'o', 'u']","[None, None, None, None, None]",['chyou']
+fengge,,势力,,"['shi4', 'li4']","['power', '(ability to) influence']",n,['shi4 li5'],['power'],"['shi4', 'li4']"
+fu,,fu,,"['f', 'u']",,nr,"['f', 'u']","[None, None]",['fu']
+fuhua,,富豪,,"['fu4', 'hao2']",['rich and powerful person'],nr,['fu4 hao2'],['rich and powerful person'],"['fu4', 'hao2']"
+chuntao,,chuntao,,"['c', 'h', 'u', 'n', 't', 'a', 'o']",,nr,"['c', 'h', 'u', 'n', 't', 'a', 'o']","[None, None, None, None, None, None, None]",['chuntao']
+gan,,甘,,['gan1'],"['sweet', 'willing']",nr,['gan1'],['surname Gan'],['gan1']
+gang,,帮派,,"['bang1', 'pai4']","['gang', 'faction']",n,['bang1 pai4'],['gang'],"['bang1', 'pai4']"
+chunhua,,Chunhua,,"['C', 'h', 'u', 'n', 'h', 'u', 'a']",,nr,"['C', 'h', 'u', 'n', 'h', 'u', 'a']","[None, None, None, None, None, None, None]",['Chunhua']
+gen,,Gen,,"['G', 'e', 'n']",,nr,"['G', 'e', 'n']","[None, None, None]",['Gen']
+genghis,,成年,,"['cheng2', 'nian2']","['to grow to adulthood', 'fully grown', 'the whole year']",vn,['cheng2 nian2'],['to grow to adulthood'],"['cheng2', 'nian2']"
+genji,,Genji,,"['G', 'e', 'n', 'j', 'i']",,nr,"['G', 'e', 'n', 'j', 'i']","[None, None, None, None, None]",['Genji']
+chuanli,,Chuanli,,"['C', 'h', 'u', 'a', 'n', 'l', 'i']",,nr,"['C', 'h', 'u', 'a', 'n', 'l', 'i']","[None, None, None, None, None, None, None]",['Chuanli']
+chu hua,,朱华,,"['zhu1', 'hua2']",,nr,"['zhu1', 'hua2']","['surname Zhu', 'abbr. for China']","['zhu1', 'hua2']"
+huiqing,,huiqing,,"['h', 'u', 'i', 'q', 'i', 'n', 'g']",,nr,"['h', 'u', 'i', 'q', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['huiqing']
+huian,,华,,['hua2'],"['magnificent', 'splendid', 'flowery']",nr,['hua2'],['abbr. for China'],['hua2']
+boqin,,Boqin,,"['B', 'o', 'q', 'i', 'n']",,nr,"['bi1', 'o', 'q', 'i', 'n']","['', None, None, None, None]","['bi1', 'oqin']"
+bohai,,波海,,"['bo1', 'hai3']",,nr,"['bo1', 'hai3']","['Poland', 'surname Hai']","['bo1', 'hai3']"
+jingguo,,Jingguo,,"['J', 'i', 'n', 'g', 'g', 'u', 'o']",,nr,"['J', 'i', 'n', 'g', 'g', 'u', 'o']","[None, None, None, None, None, None, None]",['Jingguo']
+jinghua,,Jinghua,,"['J', 'i', 'n', 'g', 'h', 'u', 'a']",,nr,"['J', 'i', 'n', 'g', 'h', 'u', 'a']","[None, None, None, None, None, None, None]",['Jinghua']
+jinhai,,金海,,"['jin1', 'hai3']",,nr,"['jin1', 'hai3']","['surname Jin', 'surname Hai']","['jin1', 'hai3']"
+changpu,,Changpu,,"['C', 'h', 'a', 'n', 'g', 'p', 'u']",,nr,"['C', 'h', 'a', 'n', 'g', 'p', 'u']","[None, None, None, None, None, None, None]",['Changpu']
+changming,,长满,,"['chang2', 'man3']",['to grow all over'],nr,['zhang3 man3'],['to grow all over'],"['chang2', 'man3']"
+changchang,,昌昌,,"['chang1', 'chang1']",,nr,"['chang1', 'chang1']","['surname Chang', 'surname Chang']","['chang1', 'chang1']"
+huizhong,,Huizhong,,"['H', 'u', 'i', 'z', 'h', 'o', 'n', 'g']",,nr,"['H', 'u', 'i', 'z', 'h', 'o', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Huizhong']
+juan,,胡安,,"['hu2', 'an1']",,nr,"['hu2', 'an1']","['surname Hu', 'surname An']","['hu2', 'an1']"
+bolin,,Bolin,,"['B', 'o', 'l', 'i', 'n']",,nr,"['bi1', 'o', 'l', 'i', 'n']","['', None, None, None, None]","['bi1', 'olin']"
+bojing,,bojing,,"['b', 'o', 'j', 'i', 'n', 'g']",,nr,"['b', 'o', 'j', 'i', 'n', 'g']","[None, None, None, None, None, None]",['bojing']
+junjie,,朱吉,,"['zhu1', 'ji2']",,nr,"['zhu1', 'ji2']","['surname Zhu', 'surname Ji']","['zhu1', 'ji2']"
+kang,,炕,,['kang4'],"['kang (a heatable brick bed)', 'to bake', 'to dry by the heat of a fire']",n,['kang4'],['kang (a heatable brick bed)'],['kang4']
+kong,,孔,,['kong3'],"['hole', 'CL:個|个[ge4]', 'classifier for cave dwellings']",nr,['kong3'],['surname Kong'],['kong3']
+changying,,换,,['huan4'],"['to exchange', 'to change (clothes etc)', 'to substitute', 'to switch', 'to convert (currency)']",v,['huan4'],['to exchange'],['huan4']
+bingwen,,宾温,,"['bin1', 'wen1']",,nr,"['bin1', 'wen1']","['visitor', 'surname Wen']","['bin1', 'wen1']"
+baozhai,,Baozhai,,"['B', 'a', 'o', 'z', 'h', 'a', 'i']",,nr,"['bi1', 'a', 'o', 'z', 'h', 'a', 'i']","['', None, None, None, None, None, None]","['bi1', 'aozhai']"
+bai,,拜,,['bai4'],"['to pay respect', 'worship', 'visit', 'salute']",v,['bai4'],['to pay respect'],['bai4']
+kueng,,Kueng,,"['K', 'u', 'e', 'n', 'g']",,nr,"['K', 'u', 'e', 'n', 'g']","[None, None, None, None, None]",['Kueng']
+lan,,局域网,,"['ju2', 'yu4', 'wang3']",['local area network (LAN)'],n,['ju2 yu4 wang3'],['local area network (LAN)'],"['ju2', 'yu4', 'wang3']"
+lanying,,lanying,,"['l', 'a', 'n', 'y', 'i', 'n', 'g']",,nr,"['l', 'a', 'n', 'y', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['lanying']
+lee,,李,,['li3'],['plum'],nr,['li3'],['surname Li'],['li3']
+aiguo,,aiguo,,"['a', 'i', 'g', 'u', 'o']",,nr,"['a', 'i', 'g', 'u', 'o']","[None, None, None, None, None]",['aiguo']
+ai,,AI,,"['A', 'I']",,nr,"['a', 'I']","['(slang) (Tw) to steal', None]",['aI']
+lian,,lian,,"['l', 'i', 'a', 'n']",,nr,"['l', 'i', 'a', 'n']","[None, None, None, None]",['lian']
+ah lam,,啊，林,,"['a5', '，', 'lin2']",,nr,"['a4', '，', 'lin2']","['interjection or grunt of agreement', None, 'surname Lin']","['a4', '，', 'lin2']"
+lien,,留置权,,"['liu2', 'zhi4', 'quan2']",,nr,"['liu2', 'zhi4', 'quan2']","['to leave (a message etc)', 'to install', 'surname Quan']","['liu2', 'zhi4', 'quan2']"
+jin,,斤,,['jin1'],"['catty', 'weight equal to 0.5 kg', '(Tw) weight equal to 0.6 kg']",nr,['jin1'],['catty'],['jin1']
+dingbang,,Dingbang,,"['D', 'i', 'n', 'g', 'b', 'a', 'n', 'g']",,nr,"['D', 'i', 'n', 'g', 'b', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Dingbang']
+jaw-long,,下巴长,,"['xia4', 'ba1', 'chang2']",,v,"['xia4', 'ba1', 'zhang3']","['down', 'Ba state during Zhou dynasty (in east of modern Sichuan)', 'chief']","['xia4', 'ba1', 'zhang3']"
+huojin,,惠金,,"['hui4', 'jin1']",,nr,"['hui4', 'jin1']","['surname Hui', 'surname Jin']","['hui4', 'jin1']"
+jianyu,,江,,['jiang1'],"['river', 'CL:條|条[tiao2],道[dao4]']",nr,['jiang1'],['surname Jiang'],['jiang1']
+jiang,,江,,['jiang1'],"['river', 'CL:條|条[tiao2],道[dao4]']",nr,['jiang1'],['surname Jiang'],['jiang1']
+jiao,,角,,['jiao3'],"['role (theater)', 'to compete', 'ancient three legged wine vessel', 'third note of pentatonic scale']",n,['jiao3'],['angle'],['jiao3']
+jiayi,,Jiayi,,"['J', 'i', 'a', 'y', 'i']",,nr,"['J', 'i', 'a', 'y', 'i']","[None, None, None, None, None]",['Jiayi']
+chao,,混乱,,"['hun4', 'luan4']","['confusion', 'chaos', 'disorder']",a,['hun4 luan4'],['confusion'],"['hun4', 'luan4']"
+jia,,贾,,['jia3'],"['merchant', 'to buy']",nr,['jia3'],['surname Jia'],['jia3']
+jianguo,,江,,['jiang1'],"['river', 'CL:條|条[tiao2],道[dao4]']",nr,['jiang1'],['surname Jiang'],['jiang1']
+jianjun,,江,,['jiang1'],"['river', 'CL:條|条[tiao2],道[dao4]']",nr,['jiang1'],['surname Jiang'],['jiang1']
+jian,,简,,['jian3'],"['simple', 'uncomplicated', 'letter', 'to choose', 'to select', 'bamboo strips used for writing (old)']",nr,['jian3'],['simple'],['jian3']
+hung,,悬挂,,"['xuan2', 'gua4']","['to suspend', 'to hang', '(vehicle) suspension']",v,['xuan2 gua4'],['to suspend'],"['xuan2', 'gua4']"
+hulin,,Hulin,,"['H', 'u', 'l', 'i', 'n']",,nr,"['H', 'u', 'l', 'i', 'n']","[None, None, None, None, None]",['Hulin']
+jiaying,,Jiaying,,"['J', 'i', 'a', 'y', 'i', 'n', 'g']",,nr,"['J', 'i', 'a', 'y', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['Jiaying']
+jie,,杰,,['jie2'],['variant of 傑|杰[jie2]'],nr,['jie2'],['hero'],['jie2']
+xueman,,Xueman,,"['X', 'u', 'e', 'm', 'a', 'n']",,nr,"['X', 'u', 'e', 'm', 'a', 'n']","[None, None, None, None, None, None]",['Xueman']
+xueqin,,Xueqin,,"['X', 'u', 'e', 'q', 'i', 'n']",,nr,"['X', 'u', 'e', 'q', 'i', 'n']","[None, None, None, None, None, None]",['Xueqin']
+da chun,,达春,,"['da2', 'chun1']",,nr,"['da2', 'chun1']","['surname Da', 'surname Chun']","['da2', 'chun1']"
+xiuying,,xiuying,,"['x', 'i', 'u', 'y', 'i', 'n', 'g']",,nr,"['x', 'i', 'u', 'y', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['xiuying']
+yow,,哟,,['yo5'],"['(sentence-final particle expressing exhortation)', '(syllable filler in a song)']",e,['yo1'],['Oh! (interjection indicating slight surprise)'],['yo5']
+zhyuan,,ZH Yuan,,"['Z', 'H', '', '', 'Y', 'u', 'a', 'n']",,nr,"['Z', 'H', 'Y', 'u', 'a', 'n']","[None, None, None, None, None, None]",['ZH Yuan']
+ang£o,,ang£o,,"['a', 'n', 'g', '£', 'o']",,nr,"['a', 'n', 'g', '£', 'o']","[None, None, None, None, None]",['ang£o']
+yn,,yn,,"['y', 'n']",,nr,"['y', 'n']","[None, None]",['yn']
+dai-tai,,戴泰,,"['dai4', 'tai4']",,j,"['dai4', 'tai4']","['surname Dai', 'abbr. for Thailand']","['dai4', 'tai4']"
+da-xia,,da-xia,,"['d', 'a', '-', 'x', 'i', 'a']",,nr,"['d', 'a', '-', 'x', 'i', 'a']","[None, None, None, None, None, None]",['da-xia']
+ango,,安哥,,"['an1', 'ge1']",,ns,"['an1', 'ge1']","['surname An', 'elder brother']","['an1', 'ge1']"
+xiu mei,,xiu mei,,"['x', 'i', 'u', '', '', 'm', 'e', 'i']",,nr,"['x', 'i', 'u', 'm', 'e', 'i']","[None, None, None, None, None, None]",['xiu mei']
+yuet,,yuet,,"['y', 'u', 'e', 't']",,nr,"['y', 'u', 'e', 't']","[None, None, None, None]",['yuet']
+xingjuan,,Xingjuan,,"['X', 'i', 'n', 'g', 'j', 'u', 'a', 'n']",,nr,"['X', 'i', 'n', 'g', 'j', 'u', 'a', 'n']","[None, None, None, None, None, None, None, None]",['Xingjuan']
+dandan,,丹丹,,"['dan1', 'dan1']",,nr,"['dan1', 'dan1']","['red', 'red']","['dan1', 'dan1']"
+xifeng,,xifeng,,"['x', 'i', 'f', 'e', 'n', 'g']",,nr,"['x', 'i', 'f', 'e', 'n', 'g']","[None, None, None, None, None, None]",['xifeng']
+yu-jun,,Yu-Jun,,"['Y', 'u', '-', 'J', 'u', 'n']",,nr,"['Y', 'u', '-', 'J', 'u', 'n']","[None, None, None, None, None, None]",['Yu-Jun']
+chao-xing,,混乱,,"['hun4', 'luan4']","['confusion', 'chaos', 'disorder']",a,['hun4 luan4'],['confusion'],"['hun4', 'luan4']"
+zhyuan,,ZHYUAN,,"['Z', 'H', 'Y', 'U', 'A', 'N']",,nr,"['Z', 'H', 'Y', 'U', 'a', 'N']","[None, None, None, None, '(slang) (Tw) to steal', None]",['ZHYUaN']
+yuk,,Yuk,,"['Y', 'u', 'k']",,nr,"['Y', 'u', 'k']","[None, None, None]",['Yuk']
+ya,,是的,,"['shi4', 'de5']","[""yes, that's right"", 'variant of 似的[shi4 de5]']",l,['shi4 de5'],"[""yes, that's right""]","['shi4', 'de5']"
+zhxin,,Zhxin,,"['Z', 'h', 'x', 'i', 'n']",,nr,"['Z', 'h', 'x', 'i', 'n']","[None, None, None, None, None]",['Zhxin']
+yingpei,,yingpei,,"['y', 'i', 'n', 'g', 'p', 'e', 'i']",,nr,"['y', 'i', 'n', 'g', 'p', 'e', 'i']","[None, None, None, None, None, None, None]",['yingpei']
+yongliang,,杨利安格,,"['yang2', 'li4', 'an1', 'ge2']",,nr,"['yang2', 'li4', 'an1', 'ge2']","['surname Yang', 'surname Li', 'surname An', 'square']","['yang2', 'li4', 'an1', 'ge2']"
+cheung,,张,,['zhang1'],"['to open up', 'to spread', 'sheet of paper', 'classifier for flat objects, sheet', 'classifier for votes']",nr,['zhang1'],['surname Zhang'],['zhang1']
+yying,,是的,,"['shi4', 'de5']","[""yes, that's right"", 'variant of 似的[shi4 de5]']",l,['shi4 de5'],"[""yes, that's right""]","['shi4', 'de5']"
+chow,,周,,['zhou1'],"['week', 'weekly', 'variant of 周[zhou1]']",nr,['zhou1'],['surname Zhou'],['zhou1']
+yzhen,,Yzhen,,"['Y', 'z', 'h', 'e', 'n']",,nr,"['Y', 'z', 'h', 'e', 'n']","[None, None, None, None, None]",['Yzhen']
+chanming,,chanming,,"['c', 'h', 'a', 'n', 'm', 'i', 'n', 'g']",,nr,"['c', 'h', 'a', 'n', 'm', 'i', 'n', 'g']","[None, None, None, None, None, None, None, None]",['chanming']
+yet kwai,,但是Kwai,,"['dan4', 'shi4', 'K', 'w', 'a', 'i']",,nr,"['dan4 shi4', 'K', 'w', 'a', 'i']","['but', None, None, None, None]","['dan4', 'shi4', 'Kwai']"
+zemin,,Zemin,,"['Z', 'e', 'm', 'i', 'n']",,nr,"['Z', 'e', 'm', 'i', 'n']","[None, None, None, None, None]",['Zemin']
+chun,,春,,['chun1'],"['spring (time)', 'gay', 'joyful', 'youthful', 'love', 'lust', 'life']",t,['chun1'],['surname Chun'],['chun1']
+yaoting,,yaoting,,"['y', 'a', 'o', 't', 'i', 'n', 'g']",,nr,"['y', 'a', 'o', 't', 'i', 'n', 'g']","[None, None, None, None, None, None, None]",['yaoting']
+yuke,,Yuke,,"['Y', 'u', 'k', 'e']",,nr,"['Y', 'u', 'k', 'e']","[None, None, None, None]",['Yuke']
+chung,,Chung,,"['C', 'h', 'u', 'n', 'g']",,nr,"['C', 'h', 'u', 'n', 'g']","[None, None, None, None, None]",['Chung']
+yongzheng,,扬宗,,"['yang2', 'zong1']",,nr,"['yang2', 'zong1']","['surname Yang', 'surname Zong']","['yang2', 'zong1']"
+zhengzhong,,宗宗,,"['zong1', 'zong1']",,nr,"['zong1', 'zong1']","['surname Zong', 'surname Zong']","['zong1', 'zong1']"
+yanmei,,Yanmei,,"['Y', 'a', 'n', 'm', 'e', 'i']",,nr,"['Y', 'a', 'n', 'm', 'e', 'i']","[None, None, None, None, None, None]",['Yanmei']
+biyu,,Biyu,,"['B', 'i', 'y', 'u']",,nr,"['bi1', 'i', 'y', 'u']","['', None, None, None]","['bi1', 'iyu']"
+zhenzhen,,Zhenzhen,,"['Z', 'h', 'e', 'n', 'z', 'h', 'e', 'n']",,nr,"['Z', 'h', 'e', 'n', 'z', 'h', 'e', 'n']","[None, None, None, None, None, None, None, None]",['Zhenzhen']
+yuqn,,元,,['yuan2'],"['currency unit (esp. Chinese yuan)', 'first', 'original', 'primary', 'fundamental', 'constituent', 'part', 'era (of a reign)', '(math.) argument', 'variable', '(Tw) (geology) eon']",t,['yuan2'],['surname Yuan'],['yuan2']
+bik,,比克,,"['bi3', 'ke4']",,nr,"['bi3', 'ke4']","['Belgium', 'to be able to']","['bi3', 'ke4']"
+yuhai,,Yuhai,,"['Y', 'u', 'h', 'a', 'i']",,nr,"['Y', 'u', 'h', 'a', 'i']","[None, None, None, None, None]",['Yuhai']
+yubi,,尤比,,"['you2', 'bi3']",,nr,"['you2', 'bi3']","['surname You', 'Belgium']","['you2', 'bi3']"
+lien hua,,留留下,,"['liu2', 'liu2', 'xia4']",,v,"['liu2', 'liu2 xia4']","['to leave (a message etc)', 'to leave behind']","['liu2', 'liu2', 'xia4']"
+xiaosi,,小米,,"['xiao3', 'mi3']",['millet'],nr,['xiao3 mi3'],"['Xiaomi, Chinese electronics company founded in 2010']","['xiao3', 'mi3']"
+qiquiang,,Qiquiang,,"['Q', 'i', 'q', 'u', 'i', 'a', 'n', 'g']",,nr,"['q', 'i', 'q', 'u', 'i', 'a', 'n', 'g']","['cute (loanword)', None, None, None, None, None, None, None]",['qiquiang']
+jinjing,,吉金,,"['ji2', 'jin1']",,nr,"['ji2', 'jin1']","['surname Ji', 'surname Jin']","['ji2', 'jin1']"
+meizhen,,梅恩,,"['mei2', 'en1']",,nr,"['mei2', 'en1']","['surname Mei', 'favor']","['mei2', 'en1']"
+ming-ha,,明哈,,"['ming2', 'ha1']",,nr,"['ming2', 'ha1']","['Ming Dynasty (1368-1644)', '(interj.) ha!']","['ming2', 'ha1']"
+ming-hui,,明 - 韦,,"['ming2', '', '', '-', '', '', 'wei2']",,nr,"['ming2', '-', 'wei2']","['Ming Dynasty (1368-1644)', None, 'surname Wei']","['ming2', ' - ', 'wei2']"
+ming-h£a,,ming-h£a,,"['m', 'i', 'n', 'g', '-', 'h', '£', 'a']",,nr,"['m', 'i', 'n', 'g', '-', 'h', '£', 'a']","[None, None, None, None, None, None, None, None]",['ming-h£a']
+jingfei,,Jingfei,,"['J', 'i', 'n', 'g', 'f', 'e', 'i']",,nr,"['J', 'i', 'n', 'g', 'f', 'e', 'i']","[None, None, None, None, None, None, None]",['Jingfei']
+mingzhu,,mingzhu,,"['m', 'i', 'n', 'g', 'z', 'h', 'u']",,nr,"['m', 'i', 'n', 'g', 'z', 'h', 'u']","[None, None, None, None, None, None, None]",['mingzhu']
+mu lan,,Mu lan,,"['M', 'u', '', '', 'l', 'a', 'n']",,nr,"['M', 'u', 'l', 'a', 'n']","[None, None, None, None, None]",['Mu lan']
+mu tan,,Mu Tan,,"['M', 'u', '', '', 'T', 'a', 'n']",,nr,"['M', 'u', 't', 'a', 'n']","[None, None, '(slang) butch (lesbian stereotype)', None, None]",['Mu tan']
+niu,,niu,,"['n', 'i', 'u']",,nr,"['n', 'i', 'u']","[None, None, None]",['niu']
+peijing,,Peijing,,"['P', 'e', 'i', 'j', 'i', 'n', 'g']",,nr,"['p', 'e', 'i', 'j', 'i', 'n', 'g']","['(slang) femme (lesbian stereotype)', None, None, None, None, None, None]",['peijing']
+jiahui,,贾胡伊,,"['jia3', 'hu2', 'yi1']",,nr,"['jia3', 'hu2', 'yi1']","['surname Jia', 'surname Hu', 'surname Yi']","['jia3', 'hu2', 'yi1']"
+pengfei,,彭菲,,"['peng2', 'fei1']",,nr,"['peng2', 'fei1']","['surname Peng', 'luxuriant (plant growth)']","['peng2', 'fei1']"
+qiaohui,,Qiaohui,,"['Q', 'i', 'a', 'o', 'h', 'u', 'i']",,nr,"['q', 'i', 'a', 'o', 'h', 'u', 'i']","['cute (loanword)', None, None, None, None, None, None]",['qiaohui']
+qing,,清,,['qing1'],"['clear', 'distinct', 'quiet', 'just and honest', 'pure', 'to settle or clear up', 'to clean up or purge']",a,['qing1'],"[""Qing or Ch'ing dynasty of imperial China (1644-1911)""]",['qing1']
+qingge,,青奇,,"['qing1', 'qi2']",,nr,"['qing1', 'qi2']","[""nature's color"", 'strange']","['qing1', 'qi2']"
+qingsheng,,青春,,"['qing1', 'chun1']","['youth', 'youthfulness']",n,['qing1 chun1'],['youth'],"['qing1', 'chun1']"
+ju,,ju,,"['j', 'u']",,nr,"['j', 'u']","[None, None]",['ju']
+meixiang,,Meixiang,,"['M', 'e', 'i', 'x', 'i', 'a', 'n', 'g']",,nr,"['M', 'e', 'i', 'x', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Meixiang']
+meilin,,梅林,,"['mei2', 'lin2']",['Merlin'],nr,['mei2 lin2'],['Merlin'],"['mei2', 'lin2']"
+kue ching,,Kue Ching,,"['K', 'u', 'e', '', '', 'C', 'h', 'i', 'n', 'g']",,nr,"['K', 'u', 'e', 'C', 'h', 'i', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Kue Ching']
+lihwa,,lihwa,,"['l', 'i', 'h', 'w', 'a']",,nr,"['l', 'i', 'h', 'w', 'a']","[None, None, None, None, None]",['lihwa']
+liko,,liko,,"['l', 'i', 'k', 'o']",,nr,"['l', 'i', 'k', 'o']","[None, None, None, None]",['liko']
+lha,,拉,,['la1'],"['to pull', 'to play (a bowed instrument)', 'to drag', 'to draw', 'to chat']",nr,['la1'],['to pull'],['la1']
+lanfen,,兰芬,,"['lan2', 'fen1']",,nr,"['lan2', 'fen1']","['surname Lan', 'perfume']","['lan2', 'fen1']"
+linqin,,Linqin,,"['L', 'i', 'n', 'q', 'i', 'n']",,nr,"['L', 'i', 'n', 'q', 'i', 'n']","[None, None, None, None, None, None]",['Linqin']
+la,,洛杉矶,,"['luo4', 'shan1', 'ji1']","['Los Angeles, California']",ns,['luo4 shan1 ji1'],"['Los Angeles, California']","['luo4', 'shan1', 'ji1']"
+kwong,,夸,,['kua1'],"['to boast', 'to exaggerate', 'to praise']",v,['kua1'],['to boast'],['kua1']
+kuai hua,,Kuai Hua,,"['K', 'u', 'a', 'i', '', '', 'H', 'u', 'a']",,nr,"['K', 'u', 'a', 'i', 'H', 'u', 'a']","[None, None, None, None, None, None, None]",['Kuai Hua']
+meili,,梅利,,"['mei2', 'li4']",,nr,"['mei2', 'li4']","['surname Mei', 'surname Li']","['mei2', 'li4']"
+lxe,,LXE,,"['L', 'X', 'E']",,nr,"['L', 'X', 'E']","[None, None, None]",['LXE']
+l,,l,,['l'],,nr,['l'],[None],['l']
+mah,,妈,,['ma1'],"['ma', 'mom', 'mother']",n,['ma1'],['ma'],['ma1']
+mahfnh,,mahfnh,,"['m', 'a', 'h', 'f', 'n', 'h']",,nr,"['m', 'a', 'h', 'f', 'n', 'h']","[None, None, None, None, None, None]",['mahfnh']
+manchu,,Manchu,,"['M', 'a', 'n', 'c', 'h', 'u']",,nr,"['M', 'a', 'n', 'c', 'h', 'u']","[None, None, None, None, None, None]",['Manchu']
+keung,,Keung,,"['K', 'e', 'u', 'n', 'g']",,nr,"['K', 'e', 'u', 'n', 'g']","[None, None, None, None, None]",['Keung']
+meifen,,meifen,,"['m', 'e', 'i', 'f', 'e', 'n']",,nr,"['m', 'e', 'i', 'f', 'e', 'n']","[None, None, None, None, None, None]",['meifen']
+qinr,,QINR,,"['Q', 'I', 'N', 'R']",,nr,"['q', 'I', 'N', 'R']","['cute (loanword)', None, None, None]",['qINR']
+qiuyue,,qiuyue,,"['q', 'i', 'u', 'y', 'u', 'e']",,nr,"['q', 'i', 'u', 'y', 'u', 'e']","[None, None, None, None, None, None]",['qiuyue']
+dl,,DL,,"['D', 'L']",,nr,"['D', 'L']","[None, None]",['DL']
+rfen,,rfen,,"['r', 'f', 'e', 'n']",,nr,"['r', 'f', 'e', 'n']","[None, None, None, None]",['rfen']
+wei,,魏,,['wei4'],['tower over a palace gateway (old)'],nr,['wei4'],['surname Wei'],['wei4']
+female,,女性,,"['nv3', 'xing4']","['woman', 'the female sex']",n,['nu:3 xing4'],['woman'],"['nu:3', 'xing4']"
+far,,远的,,"['yuan3', 'de5']",,u,"['yuan3', 'de5']","['far', 'of']","['yuan3', 'de5']"
+weizhe,,魏兹,,"['wei4', 'zi1']",,nr,"['wei4', 'zi1']","['surname Wei', 'now']","['wei4', 'zi1']"
+wenling,,温林,,"['wen1', 'lin2']",,nr,"['wen1', 'lin2']","['surname Wen', 'surname Lin']","['wen1', 'lin2']"
+eu-meh,,欧盟,,"['ou1', 'meng2']","['European Union', 'EU']",j,['ou1 meng2'],['European Union'],"['ou1', 'meng2']"
+wenquian,,温奎安,,"['wen1', 'kui2', 'an1']",,nr,"['wen1', 'kui2', 'an1']","['surname Wen', 'crotch', 'surname An']","['wen1', 'kui2', 'an1']"
+wenyan,,温扬,,"['wen1', 'yang2']",,nr,"['wen1', 'yang2']","['surname Wen', 'surname Yang']","['wen1', 'yang2']"
+xia,,夏,,['xia4'],['summer'],t,['xia4'],['the Xia or Hsia dynasty c. 2000 BC'],['xia4']
+d‚wei,,D，Wei,,"['D', '，', 'W', 'e', 'i']",,n,"['D', '，', 'W', 'e', 'i']","[None, None, None, None, None]",['D，Wei']
+xianliang,,Xianliang,,"['X', 'i', 'a', 'n', 'l', 'i', 'a', 'n', 'g']",,nr,"['X', 'i', 'a', 'n', 'l', 'i', 'a', 'n', 'g']","[None, None, None, None, None, None, None, None, None]",['Xianliang']
+d‚sh,,D，sh,,"['D', '，', 's', 'h']",,n,"['D', '，', 's', 'h']","[None, None, None, None]",['D，sh']
+d‚l,,d,,['d'],,nr,['d'],[None],['d']
+dwei,,DWEI,,"['D', 'W', 'E', 'I']",,nr,"['D', 'W', 'E', 'I']","[None, None, None, None]",['DWEI']
+dsh,,DSH,,"['D', 'S', 'H']",,nr,"['D', 'S', 'H']","[None, None, None]",['DSH']
+xiaoli,,小米,,"['xiao3', 'mi3']",['millet'],nr,['xiao3 mi3'],"['Xiaomi, Chinese electronics company founded in 2010']","['xiao3', 'mi3']"
+xiaoqing,,小气,,"['xiao3', 'qi4']","['stingy', 'petty', 'miserly', 'narrow-minded']",n,['xiao3 qi4'],['stingy'],"['xiao3', 'qi4']"
+fung,,借口,,"['jie4', 'kou3']","['to use as an excuse', 'on the pretext', 'excuse', 'pretext']",n,['jie4 kou3'],['to use as an excuse'],"['jie4', 'kou3']"
+tsun-chang,,Tsun-chang,,"['T', 's', 'u', 'n', '-', 'c', 'h', 'a', 'n', 'g']",,nr,"['t', 's', 'u', 'n', '-', 'c', 'h', 'a', 'n', 'g']","['(slang) butch (lesbian stereotype)', None, None, None, None, None, None, None, None, None]",['tsun-chang']
+lifen,,生命,,"['sheng1', 'ming4']","['life', 'living', 'biological', 'CL:個|个[ge4]']",n,['sheng1 ming4'],['life (as the characteristic of living beings)'],"['sheng1', 'ming4']"
+shln,,SHLN,,"['S', 'H', 'L', 'N']",,nr,"['S', 'H', 'L', 'N']","[None, None, None, None]",['SHLN']
+ru,,ru,,"['r', 'u']",,nr,"['r', 'u']","[None, None]",['ru']
+ruiling,,鲁,,['lu3'],"['crass', 'stupid', 'rude']",nr,['lu3'],['surname Lu'],['lu3']
+shaoqing,,Shaoqing,,"['S', 'h', 'a', 'o', 'q', 'i', 'n', 'g']",,nr,"['S', 'h', 'a', 'o', 'q', 'i', 'n', 'g']","[None, None, None, None, None, None, None, None]",['Shaoqing']
+hfang,,hfang,,"['h', 'f', 'a', 'n', 'g']",,nr,"['h', 'f', 'a', 'n', 'g']","[None, None, None, None, None]",['hfang']
+sheu-fh,,sheu-fh,,"['s', 'h', 'e', 'u', '-', 'f', 'h']",,nr,"['s', 'h', 'e', 'u', '-', 'f', 'h']","[None, None, None, None, None, None, None]",['sheu-fh']
+shihong,,西洪,,"['xi1', 'hong2']",,nr,"['xi1', 'hong2']","['the West', 'surname Hong']","['xi1', 'hong2']"
+shining,,闪亮的,,"['shan3', 'liang4', 'de5']",,u,"['shan3 liang4', 'de5']","['brilliant', 'of']","['shan3', 'liang4', 'de5']"
+shoushan,,Shoushan,,"['S', 'h', 'o', 'u', 's', 'h', 'a', 'n']",,nr,"['S', 'h', 'o', 'u', 's', 'h', 'a', 'n']","[None, None, None, None, None, None, None, None]",['Shoushan']
+t,,t,,['t'],,nr,['t'],[None],['t']
+shu-sai-chong,,Shu-sai-chong,,"['S', 'h', 'u', '-', 's', 'a', 'i', '-', 'c', 'h', 'o', 'n', 'g']",,nr,"['S', 'h', 'u', '-', 's', 'a', 'i', '-', 'c', 'h', 'o', 'n', 'g']","[None, None, None, None, None, None, None, None, None, None, None, None, None]",['Shu-sai-chong']
+shuchun,,Shuchun,,"['S', 'h', 'u', 'c', 'h', 'u', 'n']",,nr,"['S', 'h', 'u', 'c', 'h', 'u', 'n']","[None, None, None, None, None, None, None]",['Shuchun']
+shl¡n,,shlân,,"['s', 'h', 'l', 'â', 'n']",,nr,"['s', 'h', 'l', 'â', 'n']","[None, None, None, None, None]",['shlân']
+sueh-yn,,Sueh-yn,,"['S', 'u', 'e', 'h', '-', 'y', 'n']",,nr,"['S', 'u', 'e', 'h', '-', 'y', 'n']","[None, None, None, None, None, None, None]",['Sueh-yn']
+sueh-y‚n,,Sueh-Y，,,"['S', 'u', 'e', 'h', '-', 'Y', '，']",,w,"['S', 'u', 'e', 'h', '-', 'Y', '，']","[None, None, None, None, None, None, None]",['Sueh-Y，']
+guan-yin,,关·亚恩,,"['guan1', '·', 'ya4', 'en1']",,nr,"['guan1', '·', 'ya4', 'en1']","['surname Guan', None, 'Asia', 'favor']","['guan1', '·', 'ya4', 'en1']"
+sy,,sy,,"['s', 'y']",,nr,"['s', 'y']","[None, None]",['sy']
+ming-tun,,ming-tun,,"['m', 'i', 'n', 'g', '-', 't', 'u', 'n']",,nr,"['m', 'i', 'n', 'g', '-', 't', 'u', 'n']","[None, None, None, None, None, None, None, None]",['ming-tun']

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pip install requests
+pip install bs4
+pip install pandas

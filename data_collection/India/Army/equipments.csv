@@ -1,0 +1,235 @@
+,weapons and tanks,navy ships,air weapons,historic aircrafts
+0,new battle dress uniform  ,ins arihant ,dassault rafale,aero ae-45
+1,indian army snow camouflage,ins kalvari ,sukhoi su-30,airspeed oxford
+2,pc-dpm ,ins khanderi ,hal tejas,antonov an-12
+3,high altitude combat uniform,ins karanj ,hal tejas,armstrong whitworth atalanta
+4,bhabha kavach,ins vela ,mig-29,auster aop.6
+5,bomb blast protection suit,ins sindhughosh ,mirage 2000,auster aop.9
+6,cbrn suit,ins sindhuraj ,sepecat jaguar,avro anson i
+7,head protective gear,ins sindhuratna ,mig-21,bell 47g-2
+8,patka   ,ins sindhukesari ,awacs,boulton paul defiant tt.iii
+9,mku mukut,ins sindhukirti ,emb-145,bristol blenheim i
+10,tata advanced combat helmet,ins sindhuvijay ,beriev a-50,consolidated b-24j liberator
+11,or-201,ins sindhurashtra ,reconnaissance,dassault ouragan 
+12,exfil high cut ballistic helmet,ins shishumar ,boeing 707,dassault mystère iv
+13,galvion viper p2,ins shankush ,boeing 737,de havilland canada dhc-3 otter
+14,khukri,ins shalki ,global 5000,de havilland canada dhc-4 caribou
+15,m9 bayonet,ins shankul ,gulfstream g100,de havilland devon
+16,glock knife,ins vikrant ,electronic warfare,de havilland d.h.86b
+17,pistol auto 9mm 1a,ins vikramaditya ,gulfstream iii,de havilland dragon rapide
+18,glock,ins jalashwa ,tanker,de havilland tiger moth
+19,beretta px4 storm,landing ship tanks,ilyushin il-78,de havilland vampire f.3
+20,nonlinear line of sight weapons,ins magar ,transport,de havilland vampire fb.52
+21,shootedge,ins gharial ,ilyushin il-76,de havilland vampire nf.10
+22,drdo csws ,ins shardul ,boeing c-17,de havilland vampire nf.54
+23,shotguns,ins kesari ,c-130j super hercules,de havilland vampire pr.55
+24,12 bore pag,ins airavat ,antonov an-32,de havilland vampire t.11
+25,smgs,ins cheetah ,eads casa c-295,de havilland vampire t.55
+26,micro-uzi,ins guldar ,hawker siddeley hs 748,douglas dakota
+27,heckler & koch mp5,ins kumbhir ,dornier 228,english electric canberra
+28,brügger & thomet mp9,landing craft,boeing 777,fairchild c-119g flying boxcar
+29,saf carbine 2a1,ins lcu 51 ,boeing 737,fairchild pt-19
+30,assault rifles,ins lcu 52 ,embraer legacy 600,folland gnat
+31,1b1 insas,ins lcu 53 ,helicopters,hal ajeet
+32,ak-203,ins lcu 54 ,hal light combat helicopter,hal hf-24 marut
+33,sig 716i,ins lcu 55 ,boeing ah-64 apache,hal ht-2
+34,fn scar l fn scar h,ins lcu 56 ,mil mi-24,hal krishak
+35,iwi x95,ins lcu 57 ,hal rudra,hal pushpak
+36,imi tavor tar-21,ins lcu 58 ,ch-47 chinook,harlow pc-5a
+37,m4 carbine,ins visakhapatnam [7],mil mi-17,hawker audax
+38,t91 assault rifle,ins kolkata ,hal dhruv,hawker hart 
+39,ar-m1,ins kochi ,hal light utility helicopter,hawker hind
+40,akm,ins chennai [12],hal chetak,hawker hunter f.56
+41,ak-47,ins mysore ,hal cheetah,hawker hunter fga.56
+42,mpi-kms-72,ins delhi ,trainer aircraft,hawker hunter t.66
+43,vz. 58,ins mumbai ,pilatus pc-7,hawker hurricane
+44,sniper rifles,ins rana ,pipistrel virus sw 80 garud,hawker tempest ii
+45,dragunov svd,ins ranvir ,hal kiran,ilyushin il-14
+46,imi galil 7.62 sniper,ins ranvijay ,bae hawk,lockheed super constellation
+47,heckler & koch psg1,ins shivalik ,hal tejas,mikoyan-gurevich mig-21fl
+48,mauser sp66,ins satpura ,mig-29,mikoyan-gurevich mig-23bn
+49,sig sauer ssg 3000,ins sahyadri ,sepecat jaguar,mikoyan-gurevich mig-23mf
+50,sako trg 42,ins talwar ,mig-21,mikoyan-gurevich mig-25rbk & ru
+51,beretta scorpio tgt,ins trishul ,mirage 2000,mikoyan mig-27
+52,anti-material rifles,ins tabar ,uav,mil mi-4
+53,barrett m82,ins teg ,iai heron tp[38],north american harvard mk.ii and 4
+54,barrett m95,ins tarkash ,iai heron,north american t-6g texan
+55,osv-96,ins trikand ,iai searcher[40],percival prentice t.3
+56,vidhwansak,ins brahmaputra ,drdo lakshya,pzl ts-11 iskra bis d
+57,machine guns,ins betwa ,hal light combat helicopter,sepecat jaguar gr.i
+58,fn minimi,ins beas ,boeing ah-64 apache,sikorsky s-55
+59,imi negev ng5,ins kamorta ,hal rudra,sikorsky s-62b
+60,imi negev ng7,ins kadmatt ,hal dhruv,sukhoi su-7 fitter
+61,mg 2a1mg 5amg 6a,ins kiltan ,hal light utility helicopter,supermarine spitfire vc & viiic
+62,mk 48 machine gun,ins kavaratti ,hal chetak,supermarine spitfire fr.xive & fr.xviii
+63,pk machine gun,ins kora ,hal cheetah,supermarine spitfire pr.xi & xix
+64,nsv machine gun,ins kirch ,uav,supermarine spitfire t.ix
+65,m2 browning,ins kulish ,iai heron tp[38],tupolev tu-124
+66,possible future procurements or currently under army trials,ins karmuk ,iai heron,tupolev tu-142
+67,msmc,ins kuthar ,iai searcher[40],vickers viscount
+68,asmi,ins kirpan ,ideaforge switch[48],vickers valentia
+69,mmhg shivalik,ins khanjar ,mig-29,vultee vengeance
+70,arde 40mm ubgl,ins vibhuti ,awacs,westland lysander ii
+71,multi grenade launcher 40mm,ins vipul ,kamov ka-31,westland lysander iiI.T
+72,at4cs ast,ins vinash ,maritime patrol,westland wapiti
+73,carl gustav rcl m2/m3/m4,ins vidyut ,boeing p-8,
+74,b-300 shipon,ins nashak ,ilyushin il-38,
+75,rpo-a shmel,ins pralaya ,dornier do 228,
+76,ags-30,ins prabal ,britten-norman bn-2,
+77,mines,ins abhay ,helicopters,
+78,nipun,ins saryu ,sh-60 seahawk,
+79,prachand,ins sunayna ,kamov ka-27,
+80,ulka,ins sumedha ,westland sea king,
+81,parth,ins sumitra ,sikorsky sh-3 sea king,
+82,arjun,ins sukanya ,hal dhruv,
+83,arjun,ins subhadra ,hal chetak,
+84,"t-90s ""bhishma"" t-90s",ins suvarna ,trainer aircraft,
+85,t-72 ajeyaajeya mk2,ins savitri ,mig-29,
+86,infantry fighting vehicles,ins sharada ,bae hawk,
+87,"bmp-2 ""sarath""",ins sujata ,hal kiran,
+88,armoured personnel carriers,fleet i,pipistrel virus sw 80 garud,
+89,tata ipmv,ins car nicobar ,uav,
+90,kalyani m4,ins chetlat ,iai heron tp[38],
+91,tata quick reaction fighting vehicle,ins cora divh ,iai heron,
+92,mahindra straton plus,ins cheriyam ,iai searcher[40],
+93,ofb aditya,ins cankaraso ,general atomics mq-9 reaper,
+94,casspir[76],ins kondul ,drdo lakshya,
+95,mahindra armored light specialist vehicle,ins kalpeni ,dornier do 228,
+96,mahindra marksman,ins kabra ,helicopters,
+97,mahindra rakshak,ins koswari ,hal dhruv,
+98,tank destroyers,ins karuva ,hal dhruv,
+99,namica,fleet ii,hal chetak,
+100,9p148,ins tarmugli ,,
+101,miscellaneous vehicles,ins tillanchang ,,
+102,nbc reconnaissance vehicle,ins tihayu ,,
+103,carrier mortar tracked,ins tarasa ,,
+104,drdo armoured ambulance,ins bangaram ,,
+105,force gurkha,ins bitra ,,
+106,tata safari storme,ins batti malv ,,
+107,tata xenon,ins baratang ,,
+108,tata sumo,ins trinkat ,,
+109,mahindra scorpio,23 in service,,
+110,mahindra 550 dxb,6 in service,,
+111,maruti gypsy,80 in service[citation needed],,
+112,mitsubishi pajero,ins deepak ,,
+113,arctic cat alterra tbx 700,ins shakti ,,
+114,polaris sportsman 6x6 atv,ins aditya ,,
+115,polaris ranger,ins jyoti ,,
+116,polaris mrzr,ins ambika,,
+117,drdo prahaar 510,ins dhruv ,,
+118,tata lpta 713 tc,ins sagardhwani ,,
+119,ashok leyland topchi,ins nirupak ,,
+120,tata lpta 2038 hmv,ins investigator ,,
+121,scania sba111,ins jamuna ,,
+122,ashok leyland super stallion fat 6x6,ins sutlej ,,
+123,ashok leyland super stallion,ins darshak ,,
+124,beml tatra,ins sarvekshak ,,
+125,wzt-3m,ins makar ,,
+126,wzt-2,ins andamans,,
+127,armoured engineer reconnaissance vehicle,ins nicobar,,
+128,avtlr,ins nireekshak ,,
+129,hydrema,ins astradharani ,,
+130,bridge laying tank t-72,dredger 1,,
+131,pontoonova mostova subravia ,dsar - 1,,
+132,arjun blt,dsar - 2,,
+133,kartik blt,ins tir ,,
+134,drdo sarvatra,ins tarangini ,,
+135,cl 70 mat ground surfacing,ins sudarshini ,,
+136,drdo daksh,ins varuna,,
+137,smerch 9k58 mbrl,insv mhadei ,,
+138,pinaka mbrl,insv tarini,,
+139,bm-21,ins gaj,,
+140,self-propelled artillery,ins himmat,,
+141,k9 vajra-t,ins dhiraj,,
+142,towed artillery,ins sahas,,
+143,dhanush ,ins veeran,,
+144,bae systems m777,ins madan singh,,
+145,haubits fh77a/b,ins shambhu singh,,
+146,m-46 sharang,ins bhim,,
+147,ofb indian field gun mk 1/2/3,ins balshil,,
+148,static artillery,ins ajral,,
+149,vijayanta mbt,ins nakul,,
+150,t-55 mbt,ins arjun,,
+151,future procurements or currently under army trials,ins b. c. dutt,,
+152,drdo advanced towed artillery gun system ,ins tarafdar,,
+153,prithvi defence vehicle  mk-ii,ins arga,,
+154,anti-ballistic missile systems,ins bali,,
+155,prithvi defence vehicle ,ins anup,,
+156,advanced air defence ,ins balram,,
+157,prithvi air defence ,ins bajrang,,
+158,air defence systems,ins bahadur,,
+159,s-400 triumph,ins anand,,
+160,barak-8 ,ins balwan,,
+161,akash,ins sahayak,,
+162,spyder,ins buland,,
+163,qrsam,ins sarthi,,
+164,kub ,ins manoram,,
+165,9k33 osa ,ins vihar,,
+166,9k35 strela-10 ,ins ankola,,
+167,man-portable air-defense systems,ins neelam,,
+168,fim-92 stinger,ins mohini,,
+169,9k38 igla 9k338 igla-s,ins manohar,,
+170,air defence - anti-aircraft gun systems,ins modak,,
+171,zsu-23-4m shilka,ins mangal,,
+172,2k22 tunguska[152],ins madhur,,
+173,l-70 upgraded,ins manorama,,
+174,l-70,ins manjula,,
+175,sudarshan ciws,ins ???,,
+176,bofors l60 iwm,ins ???,,
+177,zu-23-2,ins ???,,
+178,spikespike lr-ii[159],ins ???,,
+179,9m113 konkurs - m  ,ins purak,,
+180,milan 2t,ins puran,,
+181,9m119 svir ,ins poshak,,
+182,9m133 kornet ,ins pamba,,
+183,9m120 ataka-v ,ins pulakesin-1,,
+184,9k114 shturm ,ins ambuda,,
+185,dhruvastra,ins sb-ii,,
+186,mpatgm,ins sb-ii,,
+187,possible future procurements or currently under army trials,ins sb-v,,
+188,samho ,ins sb-vii,,
+189,brahmos,floating dock ,,
+190,nirbhay,floating dock ,,
+191,shaurya,,,
+192,prithvi-ii,,,
+193,agni-i,,,
+194,agni-ii,,,
+195,agni-iii,,,
+196,agni-iv,,,
+197,agni-v,,,
+198,hal light combat helicopter,,,
+199,boeing ah-64 apache,,,
+200,hal rudra,,,
+201,hal dhruv,,,
+202,hal light utility helicopter,,,
+203,hal cheetah,,,
+204,hal chetak,,,
+205,tapas-bh-201,,,
+206,iai heron tp,,,
+207,iai heron,,,
+208,iai searcher,,,
+209,ideaforge switch,,,
+210,raphe mphibr mr-20 [188],,,
+211,raphe mphibr mr-10 [188],,,
+212,sky striker,,,
+213,firefly,,,
+214,warmate,,,
+215,swarm drone,,,
+216,possible future procurements or currently under army trials,,,
+217,drdo rustom,,,
+218,gsl fast patrol boat,,,
+219,flat-bottomed troop boat,,,
+220,tempest 35 swat patrol craft,,,
+221,el/m-2090,,,
+222,el/m-2080 green pine,,,
+223,swordfish long range tracking radar,,,
+224,drdo air defence tactical control radar ,,,
+225,swathi weapon locating radar,,,
+226,an/tpq-37 firefinder,,,
+227,ashwini,,,
+228,flycatcher,,,
+229,bharani,,,
+230,rajendra,,,
+231,indra-i/ii,,,
+232,rohini,,,
+233,bel battle field surveillance radar,,,
